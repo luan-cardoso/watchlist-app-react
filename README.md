@@ -7,7 +7,7 @@ Adicione filmes e não esqueça mais de nenhuma obra.
 - Excluir filme
 
 ### Deploy
-- [Watchlist](https://developer.themoviedb.org/reference/intro/getting-started)
+- [Watchlist](https://watchlist-application.vercel.app/)
 
 ### Interface
 <img height='500px' src='https://github.com/user-attachments/assets/e186a218-9a47-4af3-bf2c-1d6f7d8715c2'></img>
